@@ -86,3 +86,9 @@ https://github.com/user-attachments/assets/8f1dad96-6b45-4c6f-a39b-323c3bf54553
 3. 使用 NavMesh 与 FSM 管理敌人巡逻/警戒/追击行为，提升模块复用性与可维护性。
 
 - GitHub项目链接：https://github.com/Kita167/3dRpgDemo.git
+
+### 类魂角色控制系统——FSM
+- 使用分层状态机实现通用角色状态机
+- 使用ScriptableObject保存状态机参数，便于调整和结构清晰
+
+- Github项目链接：https://github.com/Kita167/Unity6_3dRpgDemo_FSM
