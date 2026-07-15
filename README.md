@@ -1,8 +1,13 @@
-# GameClient_Portfolio
-游戏客户端作品集主链接，包含项目演示视频，代码库链接
+# 游戏客户端——作品集展示
+
+游戏客户端作品集主链接，包含项目演示视频，代码库链接，技术简述
 
 ## 1. UE5.7 ：基于GASP的环境感知动作匹配动画系统 2026年1月—2026年6月
 - 演示视频
+
+
+https://github.com/user-attachments/assets/46766a9e-46bb-4d3d-8c5d-d33aeba57309
+
 
 <video src="media/UE_EMM_Overview.mp4" controls width="960">
   您的 Markdown 查看器不支持 video 标签，可直接打开文件：media/UE_EMM_Overview.mp4
@@ -22,12 +27,21 @@
 
 ## 2. GameJam作品
 
+
+
+
+
 ### 2.1 GlobalGameJam（线下48h）   2026年1月
 ###  《拟态链》 Unity引擎  
 - 2D等距俯视角潜行游戏 
 - 核心玩法：扮演抱脸虫，在10秒倒计时内寻找关卡出路，并不断靠近并夺舍敌人重置计时，计时结束则死亡
 
 - 游玩视频预览
+
+
+
+https://github.com/user-attachments/assets/8f1dad96-6b45-4c6f-a39b-323c3bf54553
+
 
 <video src="media/【GGJ2026】《拟态链》 (The Mimic Chain) 游戏作品展示—2026GlobalGameJam.mp4" controls width="960">
   您的 Markdown 查看器不支持 video 标签，可直接打开文件：media/【GGJ2026】《拟态链》 (The Mimic Chain) 游戏作品展示—2026GlobalGameJam.mp4
@@ -47,6 +61,9 @@
 - 核心玩法：玩家敲击键盘获取资源放置/升级设施，抵抗敌人波次进攻，击败最后boss获得游戏胜利。
 
 - 演示视频
+
+  https://github.com/user-attachments/assets/be30412f-13cd-4454-a756-8270d7f48388
+
 
 <video src="media/【索尼2025爱满星空7天GameJam】融石之海（洪水灾难主题塔防游戏），28届首次参加GJ作品程序向展示.mp4" controls width="960">
   您的 Markdown 查看器不支持 video 标签，可直接打开文件：media/【索尼2025爱满星空7天GameJam】融石之海（洪水灾难主题塔防游戏），28届首次参加GJ作品程序向展示.mp4
